@@ -1,0 +1,3 @@
+[submodule "intro-reinforcement-learning"]
+	path = intro-reinforcement-learning
+	url = https://github.com/devidduma/intro-reinforcement-learning.git
